@@ -1,6 +1,9 @@
-### Hi there 👋
+## Hi! My name is 성겸 👋
 
+### SKILL
+__learing__ 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 <!--
 **ksk0605/ksk0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
