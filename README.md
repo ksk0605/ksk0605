@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 <a> <img src="https://img.shields.io/badge/sungkyum1@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
+
+
 >한참 성장 중인 대학생 예비개발자입니다 👶  
 `앱개발`,`머신러닝`,`데이터분석`에 관심이 많습니다  
 많은 조언 부탁드려요!!
@@ -16,8 +18,10 @@
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>  
 
+
+<img src="https://user-images.githubusercontent.com/76910498/188768032-828e6677-da01-4ee1-be8a-5b097365ed0d.png" width="15%" height="15%">
 
 <!--
 **ksk0605/ksk0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
