@@ -20,7 +20,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksk0605&layout=langs_count=8)](https://github.com/ksk0605/github-readme-stats)
 
+### CERTIFICATION
 <img src="https://user-images.githubusercontent.com/76910498/188768032-828e6677-da01-4ee1-be8a-5b097365ed0d.png" width="15%" height="15%">
 
 <!--
