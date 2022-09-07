@@ -1,14 +1,16 @@
 ## Hi! My name is 성겸 👋
----
+
 <a href="https://velog.io/@ksk0605" >
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 <a> <img src="https://img.shields.io/badge/sungkyum1@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
-한참 성장 중인 대학생 예비개발자입니다👶  
-`__앱개발__`,`__머신러닝__`,`__데이터분석__`에 관심이 많습니다  
+>한참 성장 중인 대학생 예비개발자입니다 👶  
+`앱개발`,`머신러닝`,`데이터분석`에 관심이 많습니다  
 많은 조언 부탁드려요!!
 
+
 ### SKILLS
+
 🌱 I’m currently learning ...  
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
