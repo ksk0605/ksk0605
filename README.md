@@ -9,7 +9,7 @@
 많은 조언 부탁드려요!!
 
 
-### SKILLS
+### SKILLS 🛠
 
 🌱 I’m currently learning ...  
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksk0605&layout=langs_count=8)](https://github.com/ksk0605/github-readme-stats)
 
-### CERTIFICATION
+### CERTIFICATION 📋
 <img src="https://user-images.githubusercontent.com/76910498/188768032-828e6677-da01-4ee1-be8a-5b097365ed0d.png" width="15%" height="15%">
 
 <!--
