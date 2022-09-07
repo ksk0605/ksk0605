@@ -1,8 +1,6 @@
 ## Hi! My name is 성겸 👋
 
-<a href="https://velog.io/@ksk0605" >
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-<a> <img src="https://img.shields.io/badge/sungkyum1@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+<a href="https://velog.io/@ksk0605" > <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <a> <img src="https://img.shields.io/badge/sungkyum1@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
 
 
