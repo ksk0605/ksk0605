@@ -8,6 +8,7 @@
 `앱개발`,`머신러닝`,`데이터분석`에 관심이 많습니다  
 많은 조언 부탁드려요!!
 
+🌱 I’m currently learning Flutter!
 
 ### SKILLS 🛠
 
