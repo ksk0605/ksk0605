@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Javascript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Javascript&logoColor=white"/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksk0605&layout=langs_count=8)](https://github.com/ksk0605/github-readme-stats)
 
